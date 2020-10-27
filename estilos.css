@@ -1,0 +1,28 @@
+label{
+    display: block;
+}
+button[type="submit"]{
+    display: block;
+}
+
+h1{
+    color: brown;
+}
+
+.titulo{
+    color: #46484c;
+}
+
+.promotional{
+    color: #8b8b8bcc;
+}
+
+.button-color{
+    color:#fff;
+    background-color: #025157;
+}
+
+
+.background{
+    background-color: #fffbf7;
+}
